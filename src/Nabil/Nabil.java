@@ -7,7 +7,7 @@ public class Nabil {
 
 	}
 	public static void nombre() {
-		System.out.println("Hola, mi nombre es Nabil. ");
+		System.out.println("Hola, mi nombre es Nabil . ");
 	}
 	
 
