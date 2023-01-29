@@ -7,7 +7,7 @@ public class Ana {
 	}
 		
 	public static void miNombre() {
-		System.out.println("Hola, mi nombre es Ana. ");
+		System.out.println("Hola, mi nombre es ANA.");
 	}
 	
 	
