@@ -6,9 +6,17 @@ public class Javier {
 		String nombre = "Javier";
 		
 		System.out.println(darNombre(nombre));
+		System.out.println("Mis hobbies son:");
+		darHoby();
 
 	}
 		public static String darNombre(String a) {
 			return ("Hola soy "+a);
+		}
+		public static void  darHoby() {
+			 System.out.println("Pescar");
+			 System.out.println("Futbol");
+			 System.out.println("Micología");
+			
 		}
 }
