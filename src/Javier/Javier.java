@@ -17,6 +17,11 @@ public class Javier {
 			 System.out.println("Pescar");
 			 System.out.println("Futbol");
 			 System.out.println("Micología");
+			 System.out.println("mis tres comidas son");
+			 System.out.println("pizzas");
+			 System.out.println("chuleton");
+			 System.out.println("pasta");
+
 			
 		}
 }
