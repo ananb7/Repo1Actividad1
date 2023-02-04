@@ -13,11 +13,6 @@ public class Ana {
 		System.out.println(" - música.");
 		System.out.println(" - gym. ");
 		System.out.println(" - naturaleza. ");
-		System.out.println("-------------------------");
-		System.out.println("Mis tres comidas favorias son: ");
-		System.out.println(" - croquetas. ");
-		System.out.println(" - tortilla de patata.");
-		System.out.println(" - salmón ahumado. ");
 	}
 	
 	
