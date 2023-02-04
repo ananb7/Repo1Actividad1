@@ -1,4 +1,4 @@
-package nabilpac;
+package Nabil;
 
 public class Nabil {
 
