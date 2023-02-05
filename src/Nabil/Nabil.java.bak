@@ -9,6 +9,18 @@ public class Nabil {
 	public static void nombre() {
 		System.out.println("Hola, mi nombre es Nabil . ");
 		System.out.println("Mis tres hobbies son: videojuegos, deporte y ver series. ");
+<<<<<<< HEAD
+		
+		System.out.println("Hamburguesas");
+		System.out.println("Pizza");
+		System.out.println("Macarrones");
+=======
+		System.out.println("-------------------");
+		System.out.println(" Mis tres comidas favoritas son: ");
+		System.out.println(" - croquetas. ");
+		System.out.println(" - tortilla de patata. ");
+		System.out.println(" - salmón ahumado. ");
+>>>>>>> 123af3e3b40e588cbe1d2590956011ddccd1a78b
 	}
 	
 
