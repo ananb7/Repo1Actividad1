@@ -13,6 +13,7 @@ public class Ana {
 		System.out.println(" - música.");
 		System.out.println(" - gym. ");
 		System.out.println(" - naturaleza. ");
+		
 	}
 	
 	
